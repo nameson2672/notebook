@@ -6,6 +6,7 @@ fn main(){
     // let port = env::var("PORT").ok().and_then(|p| p.parse().ok());
     let port  = get_server_port();
     let an_os_str: &OsStr = OsStr::new(&port);
+    Command::new("cargo").arg("install").arg("mdbook").output();
     Command::new("mdbook").arg("build").output();
      Command::new("mdbook").arg("serve").arg("-p").arg(an_os_str).output();
 
