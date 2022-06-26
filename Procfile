@@ -1,1 +1,1 @@
-web: ./target/debug/notebook
+web: ./target/release/notebook
