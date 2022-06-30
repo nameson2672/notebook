@@ -16,12 +16,10 @@ jobs:
 
     # Use Checkout action to copy file and change diractory to the app location
     steps:
-      - name: run checkout
-      uses: actions/checkout@v1
+    - uses: actions/checkout@v1
     
-    # Build Docker image
-      - name: push to herokus and release
-      uses: gonuit/heroku-docker-deploy@v1.3.3 # GitHub action name (leave it as it is).
+    # Push to heroku
+    - uses: gonuit/heroku-docker-deploy@v1.3.3
         with:
           email: ${{ secrets.HEROKU_EMAIL }}
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
