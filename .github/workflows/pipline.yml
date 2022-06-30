@@ -12,6 +12,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: HEROKU_API_KEY
 
     # Use Checkout action to copy file and change diractory to the app location
     steps:
