@@ -3,5 +3,5 @@ COPY . .
 RUN mdbook build .
 
 FROM httpd:2.4
-RUN rm -rf /etc/apache2/sites-enabled/000-default.conf
 COPY --from=builder ./book/book /usr/local/apache2/htdocs/
+CMD sed -i “s/80/$PORT/g” /etc/apache2/sites-available/000-default.conf /etc/apache2/ports.conf && docker-php-entrypoint apache2-foreground
