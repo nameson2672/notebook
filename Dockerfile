@@ -3,8 +3,11 @@ COPY . .
 RUN mdbook build .
 
 FROM node
+COPY --from=builder ./book .
 WORKDIR .
-COPY . .
 RUN npm install
 CMD [ "node", "index.js" ]
 
+# FROM httpd:2.4
+# COPY --from=builder ./book/book /usr/local/apache2/htdocs/
+# CMD sed -i “s/80//g” /etc/apache2/sites-available/000-default.conf /etc/apache2/ports.conf && docker-php-entrypoint apache2-foreground
