@@ -2,5 +2,4 @@
 
 [Introduction](Introduction.md)
 [Array](./Array/Array.md)
-    - [Chapter 1](./chapter_1.md)
-    - [Test file](./test.md)
+    - [Two Sum](./Array/two_sum.md)
