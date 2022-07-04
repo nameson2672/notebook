@@ -11,12 +11,9 @@ You can return the answer in any order.
 **Example 1:**
 
 ```csharp
-
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
-
-
 ```
 
 ## Solution Idea:
@@ -24,8 +21,6 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 Solved using <mark>Hash Map</mark>
 
 Create a empty Hash Map and iterate through array and calculate if the difference between target and current element is in Map if it is in Map get its index and return the current index of iteration and Map index. And if the difference is not in Map add element to Map with Key as its element value and value as element index. After iteration complete return null.
-
-   
 
 ```csharp
  public int[] TwoSum(int[] nums, int target) {
@@ -39,15 +34,10 @@ Create a empty Hash Map and iterate through array and calculate if the differenc
             if(!numsHash.ContainsKey(nums[i])){
                 numsHash.Add(nums[i],i);
             }
-            
+
         }
         return null;
-        
+
         }
 } 
- 
 ```
-
-
-
-
