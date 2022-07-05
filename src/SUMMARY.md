@@ -6,6 +6,7 @@
   
   - [Two Sum](./Array/two_sum.md)
   - [Maximum Sum SubArray](./Array//maximum_sum_subarray.md)
+  - [Merge Sorted Array](./Array//merge_sorted_array.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   
