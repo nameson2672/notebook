@@ -22,48 +22,48 @@ First create a new node and loop infinitely (as we will brake loop from inside o
 Code Solution:
 
 1. By using iteration through list
-
-```csharp
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public int val;
- *     public ListNode next;
- *     public ListNode(int val=0, ListNode next=null) {
- *         this.val = val;
- *         this.next = next;
- *     }
- * }
- */
-public class Solution {
-    public ListNode MergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummey = new ListNode(0);
-        ListNode tail = dummey;
-        while(true){
-            if(list1 == null){
-                tail.next = list2;
-                break;
-            }
-            if(list2 == null){
-                tail.next = list1;
-                break;
-            }
-
-            if(list1.val<list2.val){
-                tail.next = list1;
-                list1 = list1.next;
-            }
-            else{
-                tail.next = list2;
-                list2 = list2.next;
-            }
-            tail = tail.next;
-        }
-
-        return dummey.next;
-    }
-}
-```
+   
+   ```csharp
+   /**
+    * Definition for singly-linked list.
+    * public class ListNode {
+    *     public int val;
+    *     public ListNode next;
+    *     public ListNode(int val=0, ListNode next=null) {
+    *         this.val = val;
+    *         this.next = next;
+    *     }
+    * }
+    */
+   public class Solution {
+       public ListNode MergeTwoLists(ListNode list1, ListNode list2) {
+           ListNode dummey = new ListNode(0);
+           ListNode tail = dummey;
+           while(true){
+               if(list1 == null){
+                   tail.next = list2;
+                   break;
+               }
+               if(list2 == null){
+                   tail.next = list1;
+                   break;
+               }
+   
+               if(list1.val<list2.val){
+                   tail.next = list1;
+                   list1 = list1.next;
+               }
+               else{
+                   tail.next = list2;
+                   list2 = list2.next;
+               }
+               tail = tail.next;
+           }
+   
+           return dummey.next;
+       }
+   }
+   ```
 
 2. By using recursion 
    
@@ -95,5 +95,5 @@ public class Solution {
                return list2;
            }
        }
-   } 
+   }
    ```
