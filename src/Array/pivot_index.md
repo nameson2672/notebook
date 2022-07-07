@@ -34,14 +34,12 @@ public class Solution {
         }
         for(int j=0; j<nums.Length; j++){
             if (prefix == Sum - prefix - nums[j]){
-				return j;
-			}
+                return j;
+            }
             prefix += nums[j];
         }
         return -1;
-        
+
     }
 }
 ```
-
- 
