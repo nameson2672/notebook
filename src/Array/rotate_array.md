@@ -51,10 +51,10 @@ public class Solution {
         Reverse(nums,0,nums.Length-1);
         Reverse(nums, 0, k-1);
         Reverse(nums, k, nums.Length-1);
-        
+
     }
     public void Reverse(int[] array, int start, int end){
-        
+
         while(start<end){
             int dummy = array[start];
             array[start] = array[end];

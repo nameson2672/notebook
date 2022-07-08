@@ -12,7 +12,7 @@ Output: 6
 Explanation: [4,-1,2,1] has the largest sum = 6.
 ```
 
-:memo: **Note:** Use the Kadane's Algorithm to solve  Maximum Sum Subarray Problem.
+ **Note:** Use the Kadane's Algorithm to solve  Maximum Sum Subarray Problem.
 
 ## Solution 1:
 

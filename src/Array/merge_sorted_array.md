@@ -18,7 +18,7 @@ The result of the merge is [<u>1</u>,<u>2</u>,2,<u>3</u>,5,6] with the underline
 
 ## Solution:
 
-:bulb: The Idea is to loop through the array and add the largest element first to last position of the nums1 array and do same for 2nd largest and so on.
+The Idea is to loop through the array and add the largest element first to last position of the nums1 array and do same for 2nd largest and so on.
 
 Edge case: we need to add element remaining in the nums2 to nums1 as the loop only work until n and m both are grater than 0. And if m is garter than n. The m remining  elements are already in nums2.
 
