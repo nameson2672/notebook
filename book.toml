@@ -1,11 +1,11 @@
 [book]
-authors = []
+authors = ["Nameson Gaudel"]
 language = "en"
-multilingual = false
+multilingual = true
 src = "src"
 
 [output.html]
 mathjax-support = true
 site-url = "/mdBook/"
-git-repository-url = "https://github.com/rust-lang/mdBook/tree/master/guide"
-edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/path"
+git-repository-url = "https://github.com/nameson2672/notebook"
+edit-url-template = "https://github.com/nameson2672/notebook"
