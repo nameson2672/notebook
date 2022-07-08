@@ -8,6 +8,7 @@
   - [Merge Sorted Array](./Array/merge_sorted_array.md)
   - [Find Pivot Index](./Array/pivot_index.md)
   - [Square Sorted Array](./Array/square_and_sort.md)
+  - [Rotated Array](./Array/rotate_array.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   - [Merge Two Sorted Lists](./LinkedList/merge_two_sorted_lists.md)
