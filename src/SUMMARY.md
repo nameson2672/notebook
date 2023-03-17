@@ -2,7 +2,7 @@
 
 [Introduction](Introduction.md)
 
-- [Array](./Array/Array.md)
+- [Array & Hashing](./Array/Array.md)
   
   - [Contained Duplicate](./Array/contain_duplicate.md)
   - [Valid Anagram](./Array/valid_alagram.md)
@@ -15,6 +15,8 @@
   - [Next Greater Element III](./Array/next_grater_element_iii.md)
   - [Majority Element](./Array/majority_elemet.md)
   - [Top K Frequent Elements](./Array/top_k_elements.md)
+  - [Product  of Array Except Self](./Array/product_of_array_except_self.md)
+  - [Valid Sudoku](./Array/valid_sudoku.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   
