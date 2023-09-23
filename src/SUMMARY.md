@@ -17,6 +17,7 @@
   - [Top K Frequent Elements](./Array/top_k_elements.md)
   - [Product  of Array Except Self](./Array/product_of_array_except_self.md)
   - [Valid Sudoku](./Array/valid_sudoku.md)
+  - [Find the Duplicate Number](./Array/find_duplicate.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   
