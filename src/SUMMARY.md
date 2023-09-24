@@ -28,5 +28,7 @@
 - [Two Pointers](./TwoPointers/TwoPointers.md)
 
   - [Valid Palindrome](./TwoPointers/valid-palindrome.md)
+  - [Two Sum : Sorted Array](./TwoPointers/two-sum-input-array-is-sorted.md)
+  - [3 Sum](./TwoPointers/3-sum.md)
 
 - [System Design](./System.md)
