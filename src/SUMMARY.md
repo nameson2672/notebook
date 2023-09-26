@@ -31,5 +31,6 @@
   - [Two Sum : Sorted Array](./TwoPointers/two-sum-input-array-is-sorted.md)
   - [3 Sum](./TwoPointers/3-sum.md)
   - [Container With Most Water](./TwoPointers/container-with-most-water.md)
+  - [Trapping Rain Water](./TwoPointers/trapping-rain-water.md)
 
 - [System Design](./System.md)
