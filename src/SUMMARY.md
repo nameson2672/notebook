@@ -34,4 +34,7 @@
   - [Trapping Rain Water](./TwoPointers/trapping-rain-water.md)
 
 - [Sliding Window](./SlidingWindow/)
+
+  - [Best Time to Buy & Sell Stock](./SlidingWindow/best_time_to_buy_and_sell_stock.md)
+  - [Longest Substring Without Repeating Characters](./SlidingWindow/longest_substring_without_repeating_characters.md)
 - [System Design](./System.md)

@@ -22,6 +22,7 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 ```
 
 ## Solution 1:
+We track max Profit and min price and we set min price to  max of min price or current price and them maxProfit to subtracting current element minus min price to the max profit. And the max profit we get at the last is the answer.
 
 ```csharp
 public class Solution {
@@ -38,3 +39,4 @@ public class Solution {
     }
 }
 ```
+The time complexity of this problem is `O(n)` 

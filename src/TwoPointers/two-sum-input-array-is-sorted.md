@@ -26,7 +26,7 @@ Explanation: The sum of 2 and 4 is 6. Therefore index1 = 1, index2 = 3. We retur
 
 ## Solution:
 
-we can solve this problem by using two-pointers approach. We assign left and right pointer and we add value at two pointer and if sum is less than target we increae left pointer by 1 and for grater than target we decrease right pointer by 1. And we loop the process until right pointer is less than left pointer.
+we can solve this problem by using two-pointers approach. We assign left and right pointer and we add value at two pointer and if sum is less than target we increase left pointer by 1 and for grater than target we decrease right pointer by 1. And we loop the process until right pointer is less than left pointer.
 
 ```csharp
 public class Solution
