@@ -18,6 +18,7 @@
   - [Product  of Array Except Self](./Array/product_of_array_except_self.md)
   - [Valid Sudoku](./Array/valid_sudoku.md)
   - [Find the Duplicate Number](./Array/find_duplicate.md)
+  - [Longest Consecutive Sequence](./Array/longest_consecutive_sequence.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   
@@ -37,4 +38,6 @@
 
   - [Best Time to Buy & Sell Stock](./SlidingWindow/best_time_to_buy_and_sell_stock.md)
   - [Longest Substring Without Repeating Characters](./SlidingWindow/longest_substring_without_repeating_characters.md)
+  - [Longest Repeating Character Replacement](./SlidingWindow/longest_repeating_character_replacement.md)
+  - [Permutation in String](./SlidingWindow/permutation_in_string.md)
 - [System Design](./System.md)
