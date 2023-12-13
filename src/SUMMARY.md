@@ -34,11 +34,11 @@
   - [Container With Most Water](./TwoPointers/container-with-most-water.md)
   - [Trapping Rain Water](./TwoPointers/trapping-rain-water.md)
 
-- [Sliding Window](./SlidingWindow/)
+- [Sliding Window](./SlidingWindow/SlidingWindow.md)
 
   - [Best Time to Buy & Sell Stock](./SlidingWindow/best_time_to_buy_and_sell_stock.md)
   - [Longest Substring Without Repeating Characters](./SlidingWindow/longest_substring_without_repeating_characters.md)
   - [Longest Repeating Character Replacement](./SlidingWindow/longest_repeating_character_replacement.md)
   - [Permutation in String](./SlidingWindow/permutation_in_string.md)
-  
+
 - [System Design](./System.md)
