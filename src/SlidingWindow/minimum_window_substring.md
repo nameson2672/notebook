@@ -28,6 +28,7 @@ Since the largest window of s only has one 'a', return empty string.
 ```
 
 ## Solution
+The solution is obtained using two dictionary and two pointer approach. We check for every window whether every element in t are present in it or not and try to make it as small as possible validating the previous condition. 
 
 ```csharp
 public class Solution {
@@ -76,3 +77,4 @@ public class Solution {
     }
 }
 ```
+The time complexity of this problem is `O(n)` 
