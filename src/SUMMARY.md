@@ -41,5 +41,6 @@
   - [Longest Repeating Character Replacement](./SlidingWindow/longest_repeating_character_replacement.md)
   - [Permutation in String](./SlidingWindow/permutation_in_string.md)
   - [Minimum Window Substring](./SlidingWindow/minimum_window_substring.md)
+  - [Sliding Window Maximum](./SlidingWindow/sliding_window_maximum.md)
   
 - [System Design](./System.md)
