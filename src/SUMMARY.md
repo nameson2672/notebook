@@ -43,4 +43,7 @@
   - [Minimum Window Substring](./SlidingWindow/minimum_window_substring.md)
   - [Sliding Window Maximum](./SlidingWindow/sliding_window_maximum.md)
   
+- [Stack](./Stack/stack.md)
+  - [Valid Parentheses](./Stack/valid_parentheses.md)
+
 - [System Design](./System.md)
