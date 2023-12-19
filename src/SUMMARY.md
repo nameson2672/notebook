@@ -45,5 +45,7 @@
   
 - [Stack](./Stack/stack.md)
   - [Valid Parentheses](./Stack/valid_parentheses.md)
+  - [Min Stack](./Stack/min_stack.md)
+  - [Evaluate Reverse Polish Notation](./Stack/evaluate_reverse_polish_notation.md)
 
 - [System Design](./System.md)
