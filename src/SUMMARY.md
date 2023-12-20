@@ -48,5 +48,6 @@
   - [Min Stack](./Stack/min_stack.md)
   - [Evaluate Reverse Polish Notation](./Stack/evaluate_reverse_polish_notation.md)
   - [Generate Parentheses](./Stack/generate_parentheses.md)
+  - [Daily Temperatures](./Stack/daily_temperatures.md)
 
 - [System Design](./System.md)
