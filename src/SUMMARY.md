@@ -49,5 +49,6 @@
   - [Evaluate Reverse Polish Notation](./Stack/evaluate_reverse_polish_notation.md)
   - [Generate Parentheses](./Stack/generate_parentheses.md)
   - [Daily Temperatures](./Stack/daily_temperatures.md)
+  - [Car Fleet](./Stack/car_fleet.md)
 
 - [System Design](./System.md)
