@@ -51,4 +51,7 @@
   - [Daily Temperatures](./Stack/daily_temperatures.md)
   - [Car Fleet](./Stack/car_fleet.md)
 
+- [Binary Search](./BinarySearch/BinarySearch.md)
+  - [Binary Search Solution](./BinarySearch/binary_search.md)
+  - [Search a 2D Matrix](./BinarySearch/search_a_2D_matrix.md)
 - [System Design](./System.md)
