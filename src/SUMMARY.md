@@ -54,4 +54,6 @@
 - [Binary Search](./BinarySearch/BinarySearch.md)
   - [Binary Search Solution](./BinarySearch/binary_search.md)
   - [Search a 2D Matrix](./BinarySearch/search_a_2D_matrix.md)
+  - [Koko Eating Bananas](./BinarySearch/koko_eating_bananas.md)
+
 - [System Design](./System.md)
