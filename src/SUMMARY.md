@@ -62,5 +62,8 @@
   - [Search a 2D Matrix](./BinarySearch/search_a_2D_matrix.md)
   - [Koko Eating Bananas](./BinarySearch/koko_eating_bananas.md)
   - [Find Minimum in Rotated Sorted Array](./BinarySearch/find_minimum_in_rotated_sorted_array.md)
-  
+
+- [Trees](./Trees/trees.md)
+  - [Invert Binary Tree](./Trees/invert_binary_tree.md)
+
 - [System Design](./System.md)
