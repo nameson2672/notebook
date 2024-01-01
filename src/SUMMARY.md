@@ -29,6 +29,8 @@
   - [Remove Nth Node From End of List](./LinkedList/remove_nth_node_from_end_of_list.md)
   - [Add Two Numbers](./LinkedList/add_two_numbers.md)
   - [LRU Cache](./LinkedList/lru_cache.md)
+  - [Merge k Sorted Lists](./LinkedList/merge_k_sortedlists.md)
+  - [Reverse Nodes in k-Group](./LinkedList/reverse_nodes_in_k-group.md)
 
 - [Two Pointers](./TwoPointers/TwoPointers.md)
 
