@@ -50,6 +50,7 @@
   - [Sliding Window Maximum](./SlidingWindow/sliding_window_maximum.md)
   
 - [Stack](./Stack/stack.md)
+
   - [Valid Parentheses](./Stack/valid_parentheses.md)
   - [Min Stack](./Stack/min_stack.md)
   - [Evaluate Reverse Polish Notation](./Stack/evaluate_reverse_polish_notation.md)
@@ -58,12 +59,15 @@
   - [Car Fleet](./Stack/car_fleet.md)
 
 - [Binary Search](./BinarySearch/BinarySearch.md)
+
   - [Binary Search Solution](./BinarySearch/binary_search.md)
   - [Search a 2D Matrix](./BinarySearch/search_a_2D_matrix.md)
   - [Koko Eating Bananas](./BinarySearch/koko_eating_bananas.md)
   - [Find Minimum in Rotated Sorted Array](./BinarySearch/find_minimum_in_rotated_sorted_array.md)
 
 - [Trees](./Trees/trees.md)
+
   - [Invert Binary Tree](./Trees/invert_binary_tree.md)
+  - [Maximum Depth of Binary Tree](./Trees/maximum_depth_of_binary_tree.md)
 
 - [System Design](./System.md)
