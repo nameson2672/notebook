@@ -2,6 +2,7 @@ FROM peaceiris/mdbook:v0.4.18 as builder
 COPY . .
 RUN mdbook build .
 
+ENV NODE_VERSION 18.18.0
 FROM node
 COPY --from=builder ./book .
 WORKDIR .
