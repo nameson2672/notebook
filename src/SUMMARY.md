@@ -70,5 +70,6 @@
   - [Invert Binary Tree](./Trees/invert_binary_tree.md)
   - [Maximum Depth of Binary Tree](./Trees/maximum_depth_of_binary_tree.md)
   - [Diameter of Binary Tree](./Trees/diameter_of_binary_tree.md)
-
+  - [Balanced Binary Tree](./Trees/balanced_binary_tree.md)
+  
 - [System Design](./System.md)
