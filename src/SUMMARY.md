@@ -72,4 +72,5 @@
   - [Diameter of Binary Tree](./Trees/diameter_of_binary_tree.md)
   - [Balanced Binary Tree](./Trees/balanced_binary_tree.md)
   - [Same Tree](./Trees/same_tree.md)
+  - [Subtree of Another Tree](./Trees/subtree_of_another_tee.md)
 - [System Design](./System.md)
