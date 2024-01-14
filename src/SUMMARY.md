@@ -74,5 +74,6 @@
   - [Same Tree](./Trees/same_tree.md)
   - [Subtree of Another Tree](./Trees/subtree_of_another_tee.md)
   - [Lowest Common Ancestor of a Binary Search Tree](./Trees//lowest_common_ancestor_of_a_binary_search_tree.md)
+  - [Binary Tree Level Order Traversal](./Trees/binary_tree_level_order_traversal.md)
 
 - [System Design](./System.md)
