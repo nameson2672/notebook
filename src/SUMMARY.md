@@ -77,5 +77,6 @@
   - [Binary Tree Level Order Traversal](./Trees/binary_tree_level_order_traversal.md)
   - [Binary Tree Right Side View](./Trees/binary_tree_right_side_view.md)
   - [Count Good Nodes in Binary Tree](./Trees/count_good_nodes_in_binary_tree.md)
+  - [Validate Binary Search Tree](./Trees/validate_binary_search_tree.md)
   
 - [System Design](./System.md)
