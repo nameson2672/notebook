@@ -76,5 +76,6 @@
   - [Lowest Common Ancestor of a Binary Search Tree](./Trees//lowest_common_ancestor_of_a_binary_search_tree.md)
   - [Binary Tree Level Order Traversal](./Trees/binary_tree_level_order_traversal.md)
   - [Binary Tree Right Side View](./Trees/binary_tree_right_side_view.md)
+  - [Count Good Nodes in Binary Tree](./Trees/count_good_nodes_in_binary_tree.md)
   
 - [System Design](./System.md)
