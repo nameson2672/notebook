@@ -78,5 +78,6 @@
   - [Binary Tree Right Side View](./Trees/binary_tree_right_side_view.md)
   - [Count Good Nodes in Binary Tree](./Trees/count_good_nodes_in_binary_tree.md)
   - [Validate Binary Search Tree](./Trees/validate_binary_search_tree.md)
+  - [Construct Binary Tree from Preorder and Inorder Traversal](./Trees/construct_binary_tree_from_preorder_and_inorder_traversal.md)
   
 - [System Design](./System.md)
