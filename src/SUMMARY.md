@@ -80,5 +80,6 @@
   - [Validate Binary Search Tree](./Trees/validate_binary_search_tree.md)
   - [Construct Binary Tree from Preorder and Inorder Traversal](./Trees/construct_binary_tree_from_preorder_and_inorder_traversal.md)
   - [Kth Smallest Element in a BST](./Trees/construct_binary_tree_from_preorder_and_inorder_traversal.md)
+  - [Binary Tree Maximum Path Sum](./Trees/binary_tree_maximum_path_sum.md)
   
 - [System Design](./System.md)
