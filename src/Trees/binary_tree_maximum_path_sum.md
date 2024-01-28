@@ -8,14 +8,14 @@ Given the root of a binary tree, return the maximum path sum of any non-empty pa
 
  
 **Example 1:**
-
+![](https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg)
 ```csharp
 Input: root = [1,2,3]
 Output: 6
 ```
 Explanation: The optimal path is 2 -> 1 -> 3 with a path sum of 2 + 1 + 3 = 6.
 **Example 2:**
-
+![](https://assets.leetcode.com/uploads/2020/10/13/exx2.jpg)
 ```csharp
 Input: root = [-10,9,20,null,null,15,7]
 Output: 42
