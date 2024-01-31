@@ -82,5 +82,8 @@
   - [Kth Smallest Element in a BST](./Trees/construct_binary_tree_from_preorder_and_inorder_traversal.md)
   - [Binary Tree Maximum Path Sum](./Trees/binary_tree_maximum_path_sum.md)
   - [Serialize and Deserialize Binary Tree](./Trees/serialize_and_deserialize_binary_tree.md)
+
+- [Tire](./Tire/tire.md)
+  - [Implement Trie (Prefix Tree)](./Tire/implement_trie_(prefix_tree).md)
   
 - [System Design](./System.md)
