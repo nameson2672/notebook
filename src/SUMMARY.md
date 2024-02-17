@@ -86,5 +86,8 @@
 - [Tire](./Tire/tire.md)
   - [Implement Trie (Prefix Tree)](./Tire/implement_trie_(prefix_tree).md)
   - [Design Add and Search Words Data Structure](./Tire/design_add_and_wearch_words_data_structure.md)
+
+- [Heap & Priority Queue](./Heap/heap.md)
+  - [Kth Largest Element in a Stream](./Heap/kth_largest_element_in_a_stream.md)
   
 - [System Design](./System.md)
