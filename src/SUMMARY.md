@@ -14,6 +14,7 @@
   - [Rotated Array](./Array/rotate_array.md)
   - [Next Greater Element III](./Array/next_grater_element_iii.md)
   - [Majority Element](./Array/majority_elemet.md)
+  - [Majority Element II](./Array/majority_element_ii.md)
   - [Top K Frequent Elements](./Array/top_k_elements.md)
   - [Product  of Array Except Self](./Array/product_of_array_except_self.md)
   - [Valid Sudoku](./Array/valid_sudoku.md)
