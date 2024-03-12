@@ -20,6 +20,7 @@
   - [Valid Sudoku](./Array/valid_sudoku.md)
   - [Find the Duplicate Number](./Array/find_duplicate.md)
   - [Longest Consecutive Sequence](./Array/longest_consecutive_sequence.md)
+  - [Max Chunks To Make Sorted](./Array/max_chunks_to_make_sorted.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   
