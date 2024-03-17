@@ -21,6 +21,7 @@
   - [Find the Duplicate Number](./Array/find_duplicate.md)
   - [Longest Consecutive Sequence](./Array/longest_consecutive_sequence.md)
   - [Max Chunks To Make Sorted](./Array/max_chunks_to_make_sorted.md)
+  - [Largest Number At Least Twice of Others](./Array/largest_number_at_least_twice_of_others.md)
 
 - [Linked List](./LinkedList/LinkedList.md) 
   
